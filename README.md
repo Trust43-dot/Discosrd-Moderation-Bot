@@ -28,10 +28,12 @@ This bot helps keep your server safe, clean, and well-managed.
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-2. npm install
-3. DISCORD_TOKEN=your-bot-token-here
-PREFIX=!
+## Install dependencies
+ - npm install
+## Create a .env file in the root directory and add:
+- DISCORD_TOKEN=your-bot-token-here
+- PREFIX=!
 ## Start the bot 
-node index.js
+- node index.js
 
 
