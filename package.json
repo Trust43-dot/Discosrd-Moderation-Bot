@@ -23,5 +23,5 @@
     "ffmpeg-static": "^5.2.0",
     "yt-dlp-core": "^2.4.0",
     "yt-search": "^2.13.1"
-  },
+  }
 }
